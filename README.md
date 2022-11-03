@@ -17,9 +17,5 @@ I am a new developer working on learning as much as I can about coding languages
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=brennantaylor98&icon=5&color=9)](https://visitcount.itsvg.in)
