@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a new developer working on learning as much as I can about coding languages. <br>My passion is problem solving, helping others, and coming up with creative and<br>unique projects. Feel free to browse my repository's<br>to see the work I've completed so far, and if you have any questions you can connect<br>with me on LinkedIn, or just send me an email! 
+I am a new developer working on learning as much as I can about coding languages. My passion is problem solving, helping others, and coming up with creative and unique projects. Feel free to browse my repository's to see the work I've completed so far, and if you have any questions you can connect with me on LinkedIn, or just send me an email! 
 
 
 ## 🌐 Socials:
@@ -21,4 +21,3 @@ I am a new developer working on learning as much as I can about coding languages
 ---
 [![](https://visitcount.itsvg.in/api?id=brennantaylor98&icon=5&color=9)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
