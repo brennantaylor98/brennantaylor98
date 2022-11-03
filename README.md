@@ -12,6 +12,9 @@ I am a new developer working on learning as much as I can about coding languages
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brennantaylor98&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brennantaylor98&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brennantaylor98&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
@@ -20,4 +23,3 @@ I am a new developer working on learning as much as I can about coding languages
 
 ---
 [![](https://visitcount.itsvg.in/api?id=brennantaylor98&icon=5&color=9)](https://visitcount.itsvg.in)
-
